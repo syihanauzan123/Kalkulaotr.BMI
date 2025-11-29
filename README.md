@@ -96,8 +96,8 @@ public class KalkulatorBMI {
 
 ###  🔢 input
 
-<img width="1920" height="1080" alt="Screenshot 2025-11-09 135228" src="https://github.com/user-attachments/assets/9e491528-2869-43a3-9071-e651df41f1c4" />
-
+[<img width="1920" height="1080" alt="Screenshot 2025-11-09 135228" src="https://github.com/user-attachments/assets/9e491528-2869-43a3-9071-e651df41f1c4" />
+](https://github.com/syihanauzan123/Kalkulaotr.BMI/blob/main/Screenshot%202025-11-29%20215813.png?raw=true)
 ### 📊 Output
 
 <img width="1920" height="1080" alt="Screenshot 2025-11-09 135256" src="https://github.com/user-attachments/assets/87fcff46-334a-454d-a050-2d4fb34480c9" />
