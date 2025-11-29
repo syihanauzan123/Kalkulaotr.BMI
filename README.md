@@ -15,15 +15,42 @@ algoritma kalkulator bmi
 BEGIN
 
     Mulai
-Input berat badan dari JOptionPane
-Input tinggi badan dari JOptionPane
-Ubah tinggi dari cm ke meter
-Hitung BMI = berat / (tinggiMeter^2)
-Bulatkan BMI dua angka di belakang koma
-Tentukan kategori BMI
-Tampilkan hasil melalui JOptionPane
-Selesai
+1. Mulai program
 
+2. Tampilkan input dialog untuk meminta berat badan (kg)
+    → simpan ke variabel bb
+    → ubah bb menjadi angka dan simpan ke berat
+
+3. Tampilkan input dialog untuk meminta tinggi badan (cm)
+    → simpan ke variabel tb
+    → ubah tb menjadi angka dan simpan ke tinggi
+
+4. Ubah tinggi dari cm ke meter
+    → tMeter = tinggi / 100
+
+5. Hitung nilai BMI
+    → bmi = berat / (tMeter * tMeter)
+
+6. Pembulatan BMI menjadi 2 angka di belakang koma
+    → bmi = (int)(bmi * 100) / 100.0
+
+7. Tentukan kategori BMI
+
+jika BMI < 18.5 → "Kurus"
+
+jika BMI < 25 → "Normal"
+
+jika BMI < 30 → "Gemuk"
+
+selain itu → "Obesitas"
+
+8. Tampilkan hasil perhitungan BMI menggunakan JOptionPane
+    → berat badan
+    → tinggi badan
+    → nilai BMI
+    → kategori BMI
+
+9. Selesai
 
 END
 
@@ -96,12 +123,11 @@ public class KalkulatorBMI {
 
 ###  🔢 input
 
-![Screenshot Program](https://github.com/syihanauzan123/Kalkulaotr.BMI/blob/main/Screenshot%202025-11-29%20215813.png?raw=true)
+![Hasil Program BMI](https://github.com/syihanauzan123/Kalkulaotr.BMI/blob/main/Screenshot%202025-11-29%20223656.png?raw=true)
 
 ### 📊 Output
 
-<img width="1920" height="1080" alt="Screenshot 2025-11-09 135256" src="https://github.com/user-attachments/assets/87fcff46-334a-454d-a050-2d4fb34480c9" />
-
+![Screenshot Program](https://github.com/syihanauzan123/Kalkulaotr.BMI/blob/main/Screenshot%202025-11-29%20215813.png?raw=true)
 
 ---
 
