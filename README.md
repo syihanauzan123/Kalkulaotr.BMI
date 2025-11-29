@@ -96,7 +96,7 @@ public class KalkulatorBMI {
 
 ###  🔢 input
 
-https://github.com/syihanauzan123/Kalkulaotr.BMI/blob/main/Screenshot%202025-11-29%20215813.png?raw=true
+![Screenshot Program](https://github.com/syihanauzan123/Kalkulaotr.BMI/blob/main/Screenshot%202025-11-29%20215813.png?raw=true)
 
 ### 📊 Output
 
